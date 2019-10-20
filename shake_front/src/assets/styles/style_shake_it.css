@@ -1,0 +1,38 @@
+@font-face{
+    font-family: Abadi;
+    src: url("../fonts/AbadiMTCondensedExtraBold.ttf");
+  }
+
+ @font-face{
+    font-family: Sempoi;
+    src: url("../fonts/Sempoi.ttf");
+  }
+
+ @font-face{
+    font-family: HoboStd;
+    src: url("../fonts/HoboStd.otf");
+  }
+
+ @font-face{
+    font-family: Trubble;
+    src: url("../fonts/Trubble.ttf");
+  }
+
+body {
+	margin: 0;
+	padding: 0;
+}
+
+h1 {
+	font-family: Badriyah;
+}
+h2 {
+	font-family: HoboStd;
+}
+h3 {
+	font-family: Trubble;
+}
+
+#h1Oculto {
+	display: none;
+}
